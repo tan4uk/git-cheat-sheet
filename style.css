@@ -1,0 +1,12 @@
+body {
+    font-size: 20px; 
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
+
+p {
+    margin: 50px 35px;
+}
